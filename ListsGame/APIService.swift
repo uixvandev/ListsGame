@@ -10,7 +10,7 @@ import Foundation
 class APIService {
     static let shared = APIService()
     
-    private let apiKey = "c0eeab739243494d9067ec6a26287e10"
+    private let apiKey = "YOUR_API_KEY"
     
     private init() {}
     
